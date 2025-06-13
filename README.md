@@ -1,4 +1,4 @@
 # firstrepo
-Nome: Jefferson Souza de Paulo
-Curso: Sistemas de Informação
-Período Inicial: 2025.1
+Jefferson Souza de Paulo
+Sistemas de Informação
+2025.1
